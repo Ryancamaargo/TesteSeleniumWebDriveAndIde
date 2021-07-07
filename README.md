@@ -3,6 +3,7 @@ Olá, nesse repositório há 2 testes automatizados.
 Site utilizado para testar: https://seubarriga.wcaquino.me/
 
 Teste automatizado com Selenium Web Driver -> Foi feito testes E2E, validando sempre as mensagens de retorno, foi utilizado a linguagem Java (no eclipse) e para rodar os testes parciais o Java Unit, onde dividi cada execução de rotina para ficar melhor dividido. Há cadastro de Usuário, login, CRUD de conta e CRUD de movimentações, e as validações necessárias para verificar o retorno da rotina.
+Tem uma pasta, apesar de não ser um teste da rotina do SeuBarriga, eu criei uma conta da Amazon, e em outro arquivo eu comparei 2 temperaturas (a da cidade onde moro com um site especifico, e o google).
 
 
 
